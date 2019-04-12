@@ -7,5 +7,6 @@ public class HelloSVN {
 		//aaaa
 		// edit by pro2
 		// edit by pro1
+		// edit by hot_fix
 	}
 }
